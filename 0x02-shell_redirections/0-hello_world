@@ -1,4 +1,3 @@
 #!/bin/bash
-cat
-Hello world
+cat 0-hello_world
 
