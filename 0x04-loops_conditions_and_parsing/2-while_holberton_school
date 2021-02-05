@@ -2,7 +2,7 @@
 #prints "Holberton School" ten times
 
 i=1
-while ((i < 10))
+while ((i <= 10))
 do
       echo "Holberton School"
       ((i++))
